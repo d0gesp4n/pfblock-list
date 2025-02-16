@@ -1,4 +1,2 @@
 icanhazip.com
-api.ipify.org
 myip.opendns.com
-api.fastmail.com
