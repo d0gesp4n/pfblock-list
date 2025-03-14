@@ -1,0 +1,4 @@
+# from internal threat hunt
+# https://www.virustotal.com/gui/search/185.93.1.246
+185.93.1.246
+
